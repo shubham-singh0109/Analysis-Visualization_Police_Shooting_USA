@@ -1,5 +1,8 @@
 # Beneath The Badge - Poolice Shooting in USA
 
+## Result
+![Demo Image](snippets/killed_info.png)
+
 ## Overview
 This project analyzes police shootings in the United States from January 2015 to October 2023, leveraging datasets provided by The Washington Post. The goal is to uncover trends, patterns, and insights into police encounters, focusing on racial demographics, armed status, and geospatial/time-based correlations. Advanced data science techniques such as K-Means clustering, Random Forest modeling, Monte Carlo simulation, and time series analysis are employed to address key questions about fairness, racial bias, and operational patterns in police shootings.
 
@@ -49,9 +52,6 @@ Libraries:
 5. Geospatial & Temporal Patterns:
 - Altair Geo Histograms highlighted city-level correlations between datasets.
 - Time series analysis showed consistent shooting patterns with slight variations.
-
-## Result
-![Demo Image](snippets/killed_info.png)
 
 ## Future Improvements
 - Incorporate real-time data updates from The Washington Post.
