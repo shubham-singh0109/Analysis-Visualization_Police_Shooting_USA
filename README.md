@@ -1,4 +1,4 @@
-# Beneath The Badge - Poolice Shooting in USA
+# Beneath The Badge - Police Shooting in USA
 
 ## Result
 ![Demo Image](snippets/killed_info.png)
