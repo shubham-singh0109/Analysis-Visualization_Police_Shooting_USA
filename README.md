@@ -58,5 +58,13 @@ Libraries:
 - Improve Random Forest accuracy with feature engineering or additional data.
 - Expand analysis to include body camera footage impact and socioeconomic factors.
 
+## **Clone the Repository**:
+   ```bash
+   git clone https://github.com/shubham-singh0109/Analysis-Visualization_Police_Shooting_USA.git
+   ```
+   ```bash
+   cd Analysis-Visualization_Police_Shooting_USA.git
+   ```
+
 ## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request.
