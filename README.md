@@ -63,7 +63,7 @@ Libraries:
    git clone https://github.com/shubham-singh0109/Analysis-Visualization_Police_Shooting_USA.git
    ```
    ```bash
-   cd Analysis-Visualization_Police_Shooting_USA.git
+   cd Analysis-Visualization_Police_Shooting_USA
    ```
 
 ## Contributions
